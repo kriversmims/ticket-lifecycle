@@ -46,7 +46,7 @@ This repository outlines the lifecycle of a ticket from creation to resolution w
 <img src="https://github.com/user-attachments/assets/9d0872f8-75fb-4716-89c7-ca985c7a849f"/>
 </p>
 <p>
-<b>Communication/Working</b> | An assigned agent reviews the ticket and replies to the user with assistance or follow-up questions. The user may respond with additional information or questions, which will ultimately lead to the resolution of the issue.
+<b>Communication/Working</b> | An assigned agent reviews the ticket and replies to the user with assistance or follow-up questions. The user may respond with additional information or questions, which will ultimately lead to the resolution of the issue. In this case, I sent updates on the status of the ticket throughout the process.
 </p>
 <br />
 
@@ -55,6 +55,6 @@ This repository outlines the lifecycle of a ticket from creation to resolution w
 <img src="https://github.com/user-attachments/assets/390f0f09-8978-4bb7-a6e5-a0b0ff1f5cca"/>
 </p>
 <p>
-<b>Resolution</b> After completing the issue, I can change the status of the ticket to resolved/closed.
+<b>Resolution</b> | After completing the issue, I can change the status of the ticket to resolved/closed, and move on to the next ticket.
 </p>
 <br />
